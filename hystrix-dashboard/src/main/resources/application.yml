@@ -1,0 +1,7 @@
+server.port: 8081
+
+hystrix:
+  dashboard:
+    proxy-stream-allow-list:
+      - 'localhost'
+
